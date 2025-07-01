@@ -30,7 +30,7 @@ A modern, responsive React application built by Jeff Mbita(Me) for the Week 3 as
    ```
 
 ## 🌐 Deployed Application
-- [Live Demo](<your-deployed-url-here>)
+- [Live Demo](<https://uniqueapp.vercel.app/>)
 
 ## 📸 My App Screenshots
 Below are screenshots of my actual application:
